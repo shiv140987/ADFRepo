@@ -1,0 +1,9 @@
+{
+	"name": "shivadfforpractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "434c6f95-5234-4a28-a3f8-13bc380eee0b",
+		"tenantId": "3e573559-f479-40fe-9e4e-1783f06a8a67"
+	}
+}
